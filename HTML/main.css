@@ -1,0 +1,22 @@
+.section0{
+    background-color: rgb(138, 44, 154);
+    height: 9px;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.body{
+    background-color: #efeaea;
+}
+.googleform{
+    padding-top: 50px;
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: #f1e6e6;
+}
+.section1,.section2,.section3,.section4,.section5{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12pt; 
+    background-color: white;
+    text-overflow: ellipsis;
+    border-radius: 12px;
+}
